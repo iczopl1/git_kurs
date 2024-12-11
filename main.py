@@ -14,3 +14,4 @@ class ToDoList:
 
 if name == "_main":
     main()
+    //zmiana
