@@ -11,8 +11,8 @@ class ToDoList:
                 status = "\u2713" if task["done"] else "\u2717"
                 print(f"{idx}. {task['task']} [{status}]")
 def main():
-    Lista = ToDoList
-    
+    Lista = ToDoList()
+    Lista.viewtasks()    
 
 if __name__ == "__main__":
     main()
