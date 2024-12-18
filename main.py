@@ -13,7 +13,7 @@ class ToDoList:
 def main():
     Lista = ToDoList()
     Lista.viewtasks()    
-
+    print("Elo")
 if __name__ == "__main__":
     main()
     # //zmiana
