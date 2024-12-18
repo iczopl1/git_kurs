@@ -16,7 +16,7 @@ def main():
     print("Elo")
 if __name__ == "__main__":
     main()
-    # //zmiana
+    # //zmianElElEloooa
     # //Witamy wszystkich zgromadzonych przed komputerami xD :)
     # //zmiana elo dasdasd asf af ds
     # //Witamy wszystkich zgromadzonych przed komputerami xD :)
