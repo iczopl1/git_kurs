@@ -14,5 +14,5 @@ class ToDoList:
 
 if name == "_main":
     main()
-    //zmiana
-    //Witamy wszystkich zgromadzonych przed komputerami xD :)
+    # //zmiana
+    # //Witamy wszystkich zgromadzonych przed komputerami xD :)
