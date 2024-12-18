@@ -14,5 +14,5 @@ class ToDoList:
 
 if name == "_main":
     main()
-    //zmiana
+    //zmiana elo
     //Witamy wszystkich zgromadzonych przed komputerami xD :)
